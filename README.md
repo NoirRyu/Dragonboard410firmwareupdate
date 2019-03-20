@@ -13,6 +13,7 @@ Emmcdl.exe -p <disk_no> -b <partition name> <image> 로 SBL, UEFI 를 업데이�
 SBL 업데이트 
 ![emmcdl1](image/emmcdl1.png)
 
+
 UEFI 업데이트 
 ![emmcdl2](image/emmcdl2.png)
 
